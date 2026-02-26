@@ -1,40 +1,43 @@
-Screenshots
-BFF Logo
 
-License
-MIT License
+## Privacy Policy
 
-Contact
-Website: https://www.somdevops.net
-Facebook: facebook.com/somDevop/
-Privacy Policy
 This privacy policy applies to the Bosaso Fast Food (BFF) mobile application.
 
-Data Collection
+### Data Collection
+
 We collect the following information:
+- **User Account Data**: Username, email, and password when you register
+- **Order Information**: Food items ordered, delivery preferences, and order history
+- **Device Information**: Basic device information for app functionality
 
-User Account Data: Username, email, and password when you register
-Order Information: Food items ordered, delivery preferences, and order history
-Device Information: Basic device information for app functionality
-How We Use Your Data
+### How We Use Your Data
+
 Your data is used solely for:
+- Processing and delivering your food orders
+- Managing your account
+- Improving our services
 
-Processing and delivering your food orders
-Managing your account
-Improving our services
-Data Storage
-Your personal information is stored securely on our servers. We implement appropriate security measures to protect your data.
+### Data Storage
 
-Third-Party Services
+Your personal information is stored securely on our servers. We implement appropriate security measures to protect your data. All data is transmitted using encryption (HTTPS).
+
+### Data Retention
+
+We retain your personal data only as long as your account is active or as needed to provide services. You can request deletion of your account and associated data at any time.
+
+### Third-Party Services
+
 We may share data with third parties only when necessary to:
+- Process payments (if applicable)
+- Deliver your orders
 
-Process payments (if applicable)
-Deliver your orders
-Your Rights
+### Your Rights
+
 You have the right to:
+- Access your personal data
+- Request deletion of your account and data
+- Update your information
 
-Access your personal data
-Request deletion of your account and data
-Update your information
-Contact Us
+### Contact Us
+
 For privacy concerns, contact us at: support@somdevops.net
