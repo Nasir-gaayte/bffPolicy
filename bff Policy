@@ -38,6 +38,52 @@ You have the right to:
 - Request deletion of your account and data
 - Update your information
 
+1. Essential Content Updates
+Your current draft is a great start, but Google Play now requires specific technical disclosures that are missing. You should update your policy to include these points:
+
+Account Deletion (Crucial): Since you collect "User Account Data," Google requires a clear section on how users can delete their accounts.
+
+Add this: "Users can delete their account and all associated data directly within the app settings or by submitting a request to support@somdevops.net. Data will be purged from our active databases within 30 days."
+
+Entity Name: Your policy must mention the name of the developer/company listed on your Play Store account.
+
+Detailed Data Usage: Be more specific about "Device Information." If you use Firebase, AdMob, or any analytics, you must list them as third-party service providers.
+
+2. Revised Privacy Policy (Copy & Paste)
+Below is a more robust version that meets the 2026 standards:
+
+Privacy Policy for Bosaso Fast Food (BFF)
+Last Updated: March 2026
+
+This privacy policy describes how somdevops.net ("we", "us", or "our") collects, uses, and shares your information when you use the Bosaso Fast Food (BFF) mobile application.
+
+1. Data Collection
+We collect the following personal and sensitive user data:
+
+Personal Identifiers: Name, email address, and phone number provided during registration.
+
+Order Details: Items purchased and delivery addresses.
+
+Device Identifiers: IP address and device ID for security and app performance tracking.
+
+2. Use of Data
+Your data is used to provide the core service (food ordering), manage your account, and provide customer support. We do not sell your personal information.
+
+3. Data Sharing & Third Parties
+We share information with third parties only to facilitate services:
+
+Payment Processors: To securely handle transactions.
+
+Delivery Partners: To ensure your food reaches your location.
+
+Analytics Providers: We may use tools (like Google Analytics for Firebase) to monitor app performance.
+
+4. Security & Encryption
+All data is transmitted securely via HTTPS/TLS encryption. We follow industry standards to protect your data against unauthorized access.
+
+5. Account and Data Deletion
+Users have the right to delete their data. You can request account deletion via the "Delete Account" button in the app profile or by emailing info@somdevops.net. Upon request, we will delete all personal data unless we are legally required to retain it for tax or regulatory purposes.
+
 ### Contact Us
 
 For privacy concerns, contact us at: support@somdevops.net
